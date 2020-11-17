@@ -5,7 +5,10 @@
 				"token": "00f2b61cf749ea678624f196fe2c65f3074d2611a31031e4b1b3cae1518329b67a6420ad0265c8e9fb757",
 				"group_id": "club198297503",
 				"keywords": [],
+				"words_blacklist": [],
 				"filter": true,
+				"donut": false,
+				"ads": false,
 				"longpoll": false,
 				"interval": 30
 			},
@@ -13,9 +16,12 @@
 				"webhook_urls": [
 					"https://discord.com/api/webhooks/778316785677631499/0BaIxBABQ8-IUYw4Jlm1okzSGlKboa24r2XWQUtozTI38JoUDvMFs7pdd9fERWIn9BtO"
 				],
-				"bot_name": "TEST BOT",
+				"username": "TEST BOT",
+				"avatar_url": "",
+				"content": "HELLO WORLD)))! @создатель",
 				"color": "#ffff66",
-				"content": "HELLO WORLD)))! @создатель"
+				"author": false,
+				"copyright": false
 			}
 		}
 	],
