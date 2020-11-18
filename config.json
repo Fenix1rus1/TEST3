@@ -10,7 +10,7 @@
 				"donut": false,
 				"ads": false,
 				"longpoll": false,
-				"interval": 30
+				"interval": 60
 			},
 			"discord": {
 				"webhook_urls": [
